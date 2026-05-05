@@ -2,12 +2,12 @@
 
 Tento projekt demonstruje využití mikrokontroléru STM32 pro čtení dat ze senzorů a jejich odesílání přes síť LoRaWAN (CRA IoT platforma). Zařízení slouží jako chytrá závora detekující průjezd a zároveň měří teplotu a atmosférický tlak.
 
-## 🛠️ Hardware
+## Hardware
 * **Mikrokontrolér:** STM32 (s podporou LoRaWAN)
 * **Senzor prostředí:** BMP180 (Teplota a Tlak) - komunikace přes I2C
 * **Detektor překážky:** Infračervený (IR) senzor - digitální vstup (GPIO)
 
-## 📡 Funkcionalita
+## Funkcionalita
 Zařízení se po spuštění připojí do sítě LoRaWAN. V pravidelných intervalech (nebo po stisknutí tlačítka) provede následující akce:
 1. Přečte stav IR senzoru (0 = Překážka, 1 = Volno).
 2. Vyčte aktuální teplotu a tlak ze senzoru BMP180.
@@ -20,7 +20,7 @@ Data jsou před odesláním komprimována do 5 bajtů, aby se minimalizovala dob
 * **Byte 1-2:** Teplota v °C vynásobená 10 (16-bit signed integer)
 * **Byte 3-4:** Tlak v Pa vydělený 10 (16-bit unsigned integer)
 
-## 💻 Příjem dat (MQTTX)
+## Příjem dat (MQTTX)
 Data z CRA Gatewaye odebíráme pomocí protokolu MQTT. Pro zobrazení dat v lidsky čitelné podobě v klientovi **MQTTX** používáme následující JavaScriptový dekodér.
 
 ### Instalace dekodéru do MQTTX:
