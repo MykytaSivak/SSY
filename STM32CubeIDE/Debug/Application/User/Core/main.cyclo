@@ -1,0 +1,4 @@
+D:/xsivak03/LoRaWAN_End_Node_LBM/Core/Src/main.c:222:6:Error_Handler	1
+D:/xsivak03/LoRaWAN_End_Node_LBM/Core/Src/main.c:135:6:SystemClock_Config	1
+D:/xsivak03/LoRaWAN_End_Node_LBM/Core/Src/main.c:181:6:MX_I2C1_Init	1
+D:/xsivak03/LoRaWAN_End_Node_LBM/Core/Src/main.c:70:5:main	2

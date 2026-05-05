@@ -1,0 +1,14 @@
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:618:17:crypto_relay_compute_mic	40	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:591:13:crypto_relay_encrypt	56	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:564:13:wor_aes_ack_uplink_enc	32	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:537:13:wor_aes_wor_uplink_enc	40	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:196:10:wor_compute_mic_wor	56	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:237:10:wor_compute_mic_ack	64	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:373:6:wor_extract_wor_info	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:414:10:wor_extract_mic_wor_uplink	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:421:9:wor_generate_ack	24	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:447:10:wor_convert_cad_period_in_ms	16	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:461:9:wor_convert_ppm	8	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:475:9:wor_convert_cadtorx	8	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:489:6:wor_decode_wor_enc_data	24	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Middlewares/Third_Party/LoRaWAN/smtc_modem_core/lr1mac/src/relay/common/wake_on_radio.c:499:6:wor_derive_keys	48	static

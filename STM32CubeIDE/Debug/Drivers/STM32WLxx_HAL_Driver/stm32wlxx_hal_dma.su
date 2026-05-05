@@ -1,0 +1,17 @@
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:1211:13:DMA_SetConfig	4	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:1254:13:DMA_CalcDMAMUXChannelBaseAndMask	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:1292:13:DMA_CalcDMAMUXRequestGenBaseAndMask	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:153:19:HAL_DMA_Init	8	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:256:19:HAL_DMA_DeInit	16	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:371:19:HAL_DMA_Start	16	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:422:19:HAL_DMA_Start_IT	16	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:496:19:HAL_DMA_Abort	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:557:19:HAL_DMA_Abort_IT	8	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:618:19:HAL_DMA_PollForTransfer	24	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:747:6:HAL_DMA_IRQHandler	16	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:841:19:HAL_DMA_RegisterCallback	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:892:19:HAL_DMA_UnRegisterCallback	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:969:22:HAL_DMA_GetState	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:981:10:HAL_DMA_GetError	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:1025:19:HAL_DMA_ConfigChannelAttributes	0	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_dma.c:1153:19:HAL_DMA_GetConfigChannelAttributes	0	static

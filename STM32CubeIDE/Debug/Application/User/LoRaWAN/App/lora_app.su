@@ -1,0 +1,13 @@
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:895:13:OnSleepTimerEvent	8	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:481:13:SystemReset	8	static,ignoring_inline_asm
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:493:17:GetRandomValue	16	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:549:13:StoreContext	16	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:517:13:RestoreContext	16	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:882:13:OnRxTimerLedEvent	8	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:877:13:OnTxTimerLedEvent	8	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:821:13:SendTxData	48	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:589:13:EventCallback	40	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:887:13:OnJoinTimerLedEvent	8	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:366:6:LoRaWAN_Init	40	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:444:6:LoRaWAN_Process	24	static
+D:/xsivak03/LoRaWAN_End_Node_LBM/LoRaWAN/App/lora_app.c:795:6:HAL_GPIO_EXTI_Callback	0	static
